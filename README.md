@@ -12,4 +12,4 @@ git submodule update
 ```bash
 docker compose up --build --force-recreate -d
 ```
-5. Access Open WebUI on localhost:8080
+5. Access Open WebUI on http://localhost:8080
